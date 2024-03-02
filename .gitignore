@@ -64,3 +64,4 @@ dist
 
 database.db
 database.db-journal
+.tool-versions
